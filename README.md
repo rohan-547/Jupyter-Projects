@@ -15,6 +15,7 @@ In some of the projects, I referred to Python Library & Google for some help.
 List of Projects : 
   1. Diabetes Predictor 
   2. GUI Calculator
+  3. Face Recognition System
 
 
 
