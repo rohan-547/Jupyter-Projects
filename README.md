@@ -1,7 +1,7 @@
 # Hello Everyone!
 
 I will upload some of the 
-Jupyter Project Files which I have done in this repositary 
+Jupyter Project Files which I have done, in this repositary 
 
 List of Projects : 
   1. Diabetes Predictor 
