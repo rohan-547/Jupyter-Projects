@@ -4,7 +4,7 @@ I will upload some of the
 Jupyter Projects which I have done, in this repositary.
 
 
-To execute these projects, you must install Anaconda on your system. 
+To execute these projects, you must install Anaconda on your system.                                                                          
 Click on the following link : https://www.anaconda.com/products/individual
 After installing anaconda, run the following command in Terminal/CMD : Jupyter Notebook
 
