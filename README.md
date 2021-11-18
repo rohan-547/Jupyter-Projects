@@ -9,6 +9,9 @@ Click on the following link : https://www.anaconda.com/products/individual
 After installing anaconda, run the following command in Terminal/CMD : Jupyter Notebook
 
 
+In some of the projects, I referred to Python Library & Google for some help.
+
+
 List of Projects : 
   1. Diabetes Predictor 
   2. GUI Calculator
